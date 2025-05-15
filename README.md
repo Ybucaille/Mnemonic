@@ -1,7 +1,7 @@
 # Mnemonic – Mémoire vectorielle locale pour IA
 
 [![Tests](https://github.com/Ybucaille/Mnemonic/actions/workflows/tests.yml/badge.svg?branch=main)](https://github.com/Ybucaille/Mnemonic/actions/workflows/tests.yml)
-![version](https://img.shields.io/github/v/release/Ybucaille/Mnemonic?label=version)
+[![version](https://img.shields.io/github/v/tag/Ybucaille/Mnemonic?label=version)](https://github.com/Ybucaille/Mnemonic/releases/latest)
 [![License](https://img.shields.io/github/license/Ybucaille/Mnemonic?cacheSeconds=60)](./LICENSE)
 [![Python](https://img.shields.io/badge/python-3.10-blue)](https://www.python.org/)
 [![Made with ❤️](https://img.shields.io/badge/Made%20with-%E2%9D%A4-red)](https://github.com/Ybucaille)
