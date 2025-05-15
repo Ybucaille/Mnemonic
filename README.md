@@ -142,8 +142,3 @@ Requiert Python 3.9+, sentence-transformers, faiss-cpu.
 ## Licence
 
 MIT — libre à utiliser, modifier, intégrer.
-
----
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Made with Python](https://img.shields.io/badge/Made%20with-Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
