@@ -1,12 +1,12 @@
 # Mnemonic – Mémoire vectorielle locale pour IA
 
 [![Tests](https://github.com/Ybucaille/Mnemonic/actions/workflows/tests.yml/badge.svg?branch=main)](https://github.com/Ybucaille/Mnemonic/actions/workflows/tests.yml)
-[![License](https://img.shields.io/github/license/Ybucaille/Mnemonic)](./LICENSE)
+[![License](https://img.shields.io/github/license/Ybucaille/Mnemonic?cacheSeconds=60)](./LICENSE)
 [![Python](https://img.shields.io/badge/python-3.10-blue)](https://www.python.org/)
 [![Made with ❤️](https://img.shields.io/badge/Made%20with-%E2%9D%A4-red)](https://github.com/Ybucaille)
 
 Mnemonic est un moteur de mémoire vectorielle local et autonome, conçu pour stocker et retrouver des souvenirs riches de sens : prompts, réponses, réflexions, faits.
-Il s’intègre facilement à tout agent (comme Nexus(https://github.com/Ybucaille/Nexus)) et fournit une continuité contextuelle à vos systèmes.
+Il s’intègre facilement à tout agent (comme [Nexus](https://github.com/Ybucaille/Nexus)) et fournit une continuité contextuelle à vos systèmes.
 
 ## Fonctionnalités
 
