@@ -1,4 +1,4 @@
-![Tests](https://github.com/Ybucaille/Mnemonic/actions/workflows/tests.yml/badge.svg)
+![Tests](https://github.com/Ybucaille/Mnemonic/actions/workflows/tests.yml/badge.svg?branch=main)
 
 # Mnemonic – Mémoire vectorielle locale pour IA
 
