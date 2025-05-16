@@ -50,7 +50,7 @@ Mnemonic/
 ## Exemple d’utilisation
 
 ```python
-from core import MnemonicMemory
+from mnemonic import MnemonicMemory
 
 memory = MnemonicMemory(backend="auto")
 
