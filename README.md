@@ -137,8 +137,7 @@ Requiert Python 3.9+, sentence-transformers, faiss-cpu.
 |---------|-------------------------------------|------------|
 | v1.0    | Mémoire vectorielle locale (JSON/FAISS) | Stable     |
 | v1.1    | Interface REST                      | Stable |
-| v1.2    | Résumés auto / oubli progressif     | Non prévu  |
-| v2.0    | Mémoire multi-agent                 | En réflexion |
+| v2.0    | Multi-couches (STM,MTM,LTM,épisodique) | En Developpement |
 
 ## Licence
 
